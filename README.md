@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Alisson
+# 👋 Olá, me chamo Alisson
 
 Sou um profissional com 5 anos de experiência em **gestão de projetos** e **desenvolvimento de sistemas web** para diversos segmentos como turismo, odontologia, energia solar, direito e contabilidade. Tenho ampla vivência com softwares CRM e soluções personalizadas para integrações e automações.
 
