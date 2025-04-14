@@ -2,7 +2,7 @@
 
 Sou um profissional com 5 anos de experiência em **gestão de projetos** e **desenvolvimento de sistemas web** para diversos segmentos como turismo, odontologia, energia solar, direito e contabilidade. Tenho ampla vivência com softwares CRM e soluções personalizadas para integrações e automações.
 
-🎓 **Graduado em Engenharia de Software**, atuo liderando equipes, definindo arquiteturas e traduzindo requisitos de negócio em soluções tecnológicas robustas. Sou responsável por todo o ciclo de vida dos projetos — do kick-off à entrega final — sempre com foco em interfaces **responsivas e funcionais**, além de APIs bem estruturadas.
+🎓 **Graduado em Engenharia de Software**, atuo no desenvolvimento e/ou liderança de equipe para aplicações de qualquer porte, definindo arquiteturas e traduzindo requisitos de negócio em soluções tecnológicas robustas. Tenho experiência em todo o ciclo de vida de diversos projetos — do kick-off à entrega final — sempre com foco em interfaces **responsivas e funcionais**, além de APIs bem estruturadas.
 
 ---
 
@@ -21,7 +21,6 @@ Repostiório onde foram pegos os shields: https://github.com/Ileriayo/markdown-b
 
 ### 🎨 Front-end & UI/UX
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![BootstrapVue](https://img.shields.io/badge/-BootstrapVue-563D7C?style=flat-square&logo=bootstrap)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -38,13 +37,12 @@ Repostiório onde foram pegos os shields: https://github.com/Ileriayo/markdown-b
 ### ⚙️ Back-end & Frameworks
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
 
 ---
 
@@ -67,7 +65,7 @@ Repostiório onde foram pegos os shields: https://github.com/Ileriayo/markdown-b
 ### ⚙️ DevOps & Infraestrutura
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -85,8 +83,9 @@ Repostiório onde foram pegos os shields: https://github.com/Ileriayo/markdown-b
 ---
 
 ### 🗂️ Controle de Versão
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
