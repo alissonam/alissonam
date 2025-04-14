@@ -1,8 +1,8 @@
 # 👋 Olá, me chamo Alisson
 
-Sou um profissional com 5 anos de experiência em **gestão de projetos** e **desenvolvimento de sistemas web** para diversos segmentos como turismo, odontologia, energia solar, direito e contabilidade. Tenho ampla vivência com softwares CRM e soluções personalizadas para integrações e automações.
+Sou um profissional com **5 anos de experiência** em **gestão de projetos** e **desenvolvimento de sistemas web**, com atuação em diversos setores como **turismo, odontologia, energia solar, direito, contabilidade e finanças**. Tenho sólida vivência no desenvolvimento de **soluções personalizadas**, incluindo **integrações com sistemas externos** (como **gateways de pagamento**, **APIs para consulta de CPF/CNPJ**, **integrações com WhatsApp** e **ferramentas de IA como a OpenAI**), além de **automações** voltadas à melhoria de processos e produtividade em plataformas CRM e sistemas internos.
 
-🎓 **Graduado em Engenharia de Software**, atuo no desenvolvimento e/ou liderança de equipe para aplicações de qualquer porte, definindo arquiteturas e traduzindo requisitos de negócio em soluções tecnológicas robustas. Tenho experiência em todo o ciclo de vida de diversos projetos — do kick-off à entrega final — sempre com foco em interfaces **responsivas e funcionais**, além de APIs bem estruturadas.
+🎓 **Graduado em Engenharia de Software**, atuo tanto no desenvolvimento quanto na liderança de equipes em projetos de diferentes portes. Participo ativamente de todas as etapas do ciclo de vida do projeto — do kick-off à entrega final — com foco em **arquiteturas bem definidas**, **APIs estruturadas**, e **interfaces responsivas e funcionais**. Traduzo requisitos de negócio em soluções tecnológicas robustas, sempre com atenção à qualidade e escalabilidade.
 
 ---
 
